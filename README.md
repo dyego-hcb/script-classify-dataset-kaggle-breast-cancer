@@ -19,6 +19,7 @@ Na pasta `scripts`, você encontrará o arquivo `script-classify-dataset-breast-
 7. XGBoost
 8. LightGBM
 9. CatBoost
+10. Redes Neurais Artificiais
 
 Este notebook é o coração do projeto, onde todas as análises e experimentos são realizados. Você pode explorá-lo para entender como cada algoritmo funciona e como eles se comparam em termos de desempenho.
 
@@ -53,6 +54,8 @@ In the `scripts` folder, you'll find the `script-classify-dataset-breast-cancer.
 7. XGBoost
 8. LightGBM
 9. CatBoost
+10. Artificial Neural Networks
+
 
 This notebook is the heart of the project, where all analyses and experiments are conducted. You can explore it to understand how each algorithm works and how they compare in terms of performance.
 
